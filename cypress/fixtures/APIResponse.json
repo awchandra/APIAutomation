@@ -1,0 +1,13 @@
+{
+  "url"   : "https://jsonplaceholder.typicode.com/posts",
+  "url_one_data": "https://jsonplaceholder.typicode.com/posts/5",
+  "url_min_data": "https://jsonplaceholder.typicode.com/posts/0",
+  "url_max_data": "https://jsonplaceholder.typicode.com/posts/101",
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "userId_property": 10,
+  "title_property": "Title Property",
+  "body_property": "Body Test Property"
+}
